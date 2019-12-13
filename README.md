@@ -4,4 +4,5 @@ Responsive email hybrid module 3 col example (no media queries).
 HTML without media queries.
 100% compatible with all webmail and mail mobile.
 Tested.
-http://recmaresth.loading.net/images/image-example.jpg
+<img src="http://recmaresth.loading.net/images/image-example.jpg">
+
