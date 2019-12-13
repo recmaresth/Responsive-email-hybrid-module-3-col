@@ -9,7 +9,7 @@ Tested.
 <img src="http://recmaresth.loading.net/images/image-example.jpg">
 
 
-Desktop-clients supported
+Desktop clients supported
 You can see the test for Desktop clients supported here:
 https://youtu.be/gqv9GTurmfs
 <br>
@@ -19,7 +19,7 @@ List of Desktop clients supported:
 <img src="http://recmaresth.loading.net/images/desktop-clients-supported.jpg">
 
 
-Mobile-clients supported
+Mobile clients supported
 You can see the test for Mobile clients supported here:
 https://youtu.be/f8Y85MBihxU
 <br>
@@ -27,4 +27,14 @@ https://youtu.be/f8Y85MBihxU
 List of Mobile clients supported:
 
 <img src="http://recmaresth.loading.net/images/mobile-clients-supported.jpg">
+
+
+Web based clients supported
+You can see the test for Web based clients supported here:
+https://youtu.be/6jOpqwPAMTk
+<br>
+
+List of Web based clients supported:
+
+<img src="http://recmaresth.loading.net/images/web-based-clients.jpg">
 
