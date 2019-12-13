@@ -10,13 +10,10 @@ Tested.
 
 
 Desktop-clients supported
+You can see the test for Desktop clients supported here:
+https://www.youtube.com/embed/gqv9GTurmfs?controls=0
+List of Desktop clients supported:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqv9GTurmfs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="http://recmaresth.loading.net/images/desktop-clients-supported.jpg">
 
 
-
-
-
-<video autoplay="" loop="" id="bgvid" poster="http://recmaresth.loading.net/images/image-example.jpg" style="width: 100%;">
-<source type="video/webm" src="video/video_home.webm"><source type="video/mp4" src="http://recmaresth.loading.net/images/Desktop-clients.mov" title="Your browser does not support the <video> tag">
-</video>
